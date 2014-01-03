@@ -1,7 +1,7 @@
-sync.breakShellUnit=%1$s destroyed a shell of %2$s
-item.Sync_ShellConstructor.name=Shell Constructor
-item.Sync_ShellStorage.name=Shell Storage
-item.Sync_Treadmill.name=Treadmill
-item.Sync_SyncCore.name=Sync Core
-death.attack.syncFail=%1$s synced into a dead shell
-death.attack.shellConstruct=%1$s died trying to create a new shell
+sync.breakShellUnit=%1$s destruyó un armazón de %2$s
+item.Sync_ShellConstructor.name=Armazón Constructor
+item.Sync_ShellStorage.name=Almacenamiento de Armazón
+item.Sync_Treadmill.name=Trotadora
+item.Sync_SyncCore.name=Núcleo Sincronizador
+death.attack.syncFail=%1$s sincronizó en un armazón muerto
+death.attack.shellConstruct=%1$s murió intentando crear un nuevo armazón
